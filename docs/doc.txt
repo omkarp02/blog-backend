@@ -1,0 +1,14 @@
+Just fill the env and add admin user directly in user collection
+
+{
+    "_id" : ObjectId("6649ba6a5c310b7f33f62ca2"),
+    "name" : "Admin User",
+    "email" : "admin@gmail.com",
+    "address" : "123 Main Street, Anytown, USA",
+    "gender" : "male",
+    "role" : "admin",
+    "password" : "$2a$10$yKRF2dWGXolTDobOFW87CeIwh8LxqaG3ASgS6WcRoY/DB/Lh7Y2vC",
+    "createdAt" : ISODate("2024-05-19T08:38:02.784+0000"),
+    "updatedAt" : ISODate("2024-05-19T08:38:02.784+0000"),
+    "__v" : NumberInt(0)
+}
